@@ -1,0 +1,12 @@
+/* BASIC STYLES HERE */
+*{
+    font-family: 'Press Start 2P', cursive;
+}
+.poke-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://e0.pxfuel.com/wallpapers/269/183/desktop-wallpaper-rotom-pokedex-background-thumbnail.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
